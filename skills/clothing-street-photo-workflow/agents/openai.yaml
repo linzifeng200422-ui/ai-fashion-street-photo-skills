@@ -1,0 +1,6 @@
+interface:
+  display_name: "服装街拍出图流程"
+  short_description: "通用服装出图流程：选择人物、整理表情参考、底图换装、细节修整与新款复用"
+  default_prompt: "使用 $clothing-street-photo-workflow，结合我已有的图片和所选生图工具，完成当前需要的服装出图步骤。"
+policy:
+  allow_implicit_invocation: true

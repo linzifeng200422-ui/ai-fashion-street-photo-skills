@@ -1,0 +1,7 @@
+interface:
+  display_name: "Awesome GPT Image 2"
+  short_description: "GPT Image 2 prompt library for every image task"
+  default_prompt: "Use $awesome-gpt-image-2 to select and adapt a reference prompt before generating this image."
+
+policy:
+  allow_implicit_invocation: true

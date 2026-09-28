@@ -1,0 +1,7 @@
+interface:
+  display_name: "活人感街拍 · 48母图"
+  short_description: "从六张图库选择四十八个母图，反推提示词并延伸动作、环境与构图"
+  default_prompt: "使用 $soul2-candid-street-prompting 进入挑选模式，展示01至48号母图图库。"
+policy:
+  allow_implicit_invocation: true
+
