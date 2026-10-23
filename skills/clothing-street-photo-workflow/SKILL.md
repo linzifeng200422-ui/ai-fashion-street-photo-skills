@@ -9,6 +9,7 @@ description: 通用服装模特与街拍出图流程。用于按服装风格选�
 
 - [各阶段可复制提示词](references/step-prompts.md)
 - [素材分工与工具适配说明](references/workflow-guide.md)
+- [Soul 风格选择库](references/soul-style-library.md)：需要选摄影风格时按需读取；已随本技能保存官方预览图、名称和预设 ID，可先看本地总览。
 
 ## 从已有材料继续
 
